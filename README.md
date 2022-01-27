@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @mockcube
-- 👀 I work with tensorflow and keras to build AI models
-- 🌱 I’m currently learning web development with Ruby on Rails
-- 💞️ I’m looking to collaborate on data science and machine learning projects
+- 👀 I work with tensorflow and keras to build machine learning models
+- 🌱 I’m currently learning web development using the MEAN stack
+- 💞️ I love working on data science, computer vision and machine learning projects
+- 😎 I'm part of the effort to code our world one line at a time
 - 📫 How to reach me jorgehaniel1@gmail.com
 
 <!---
