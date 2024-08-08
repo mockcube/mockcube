@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @mockcube
 - 👀 I work with tensorflow and keras to build machine learning models
-- 🌱 I’m currently working on web development using the MEAN stack as well as Django python
+- 🌱 I’m currently working on tuberculosis detection and diagnosis using ai tools
 - 💞️ I love working on data science, computer vision and machine learning projects
-- 😎 I'm part of the effort to code our world one line at a time
+- 😎 I'm part of the effort to codify the cyberspace one line at a time
 - 📫 How to reach me mockcube@pm.me
 
 <!---
