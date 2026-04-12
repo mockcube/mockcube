@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mockcube
 - 👀 I work with tensorflow and keras to build machine learning models
-- 🌱 I’m currently working on tuberculosis detection and diagnosis using ai tools
+- 🌱 I’m currently working on a high data compression algorithm using deep learning
 - 💞️ I love working on data science, computer vision and machine learning projects
 - 😎 I'm part of the effort to codify the cyberspace one line at a time
 - 📫 How to reach me mockcube@pm.me
